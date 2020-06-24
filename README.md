@@ -1,23 +1,23 @@
 # Rosalind Problems:
 
 ## Bioinformatics Stronghold
-1 - Counting DNA Nucleotides
-2 - Transcribing DNA into RNA
-3 - Complementing a Strand of DNA
-4 - Rabbits and Recurrence Relations
-5 - Computing GC Content
-6 - Counting Point Mutations
-7 - Mendel's First Law
-8 - Translating RNA into Protein
-9 - Finding a Motif in DNA
+* - Counting DNA Nucleotides
+* - Transcribing DNA into RNA
+* - Complementing a Strand of DNA
+* - Rabbits and Recurrence Relations
+* - Computing GC Content
+* - Counting Point Mutations
+* - Mendel's First Law
+* - Translating RNA into Protein
+* - Finding a Motif in DNA
 
 ## Bioinformatics Armory
-1 - Introduction to the Bioinformatics Armory
-2 - Introduction to Protein Databases
-3 - GenBank Introduction 
-4 - Data Formats
+* - Introduction to the Bioinformatics Armory
+* - Introduction to Protein Databases
+* - GenBank Introduction 
+* - Data Formats
 
-
+You can [find me here!](http://rosalind.info/users/flowone/)
 
 
 
